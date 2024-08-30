@@ -9,7 +9,8 @@
 .sidebar {
   display: flex;
   flex-direction: column;
-  align-items: center; // Centers content horizontally
+  width: 100%; 
+  align-items: center; // This will center the content horizontally
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
 
