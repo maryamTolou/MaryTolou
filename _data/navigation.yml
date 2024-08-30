@@ -9,19 +9,19 @@ main:
     url: "#getting-started"
 
   - title: "Talks"
-    url: /talks/
+    url: "#getting-started"
 
   - title: "Teaching"
-    url: /teaching/    
+    url: "#getting-started"
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: "#getting-started"
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: "#getting-started"
     
   - title: "CV"
-    url: /cv/
+    url: "#getting-started"
     
   - title: "Guide"
-    url: /markdown/
+    url: "#getting-started"
