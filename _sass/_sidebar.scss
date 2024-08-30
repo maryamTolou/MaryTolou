@@ -273,3 +273,8 @@
     }
   }
 }
+
+/* Targeting the div with itemscope and centering text in all child divs */
+div[itemscope] div {
+  text-align: center;
+}
