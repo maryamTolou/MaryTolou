@@ -83,6 +83,15 @@
    ========================================================================== */
 
 .author__avatar {
+  text-align: center;  // Centers inline or inline-block children horizontally
+
+    img {
+        display: block;  // Makes the image a block-level element
+        margin: auto;  // Automatically centers the image within its container
+        max-width: 100%;  // Ensures the image does not exceed its container's width
+        height: auto;  // Maintains aspect ratio
+        border-radius: 50%;  // Keeps the rounded shape if desired
+    }
   display: table-cell;
   vertical-align: top;
   width: 36px;
