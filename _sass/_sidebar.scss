@@ -17,7 +17,7 @@
   @include clearfix();
   margin-bottom: 1em;
 
-  background-color: rgb(220, 148, 238);  // Add purple background color by default
+  background-color: #dc94ee;  // Add purple background color by default
 
   @media screen and (min-width: $sidebar-screen-min-width) {
     height: 100vh;
