@@ -257,10 +257,7 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+      output: false
   # _portfolio
   - scope:
       path: ""
