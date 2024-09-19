@@ -1,11 +1,11 @@
-current directory: /Users/orenda/Documents/website/marytolou/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+current directory: /Users/orenda/Documents/website/maryamTolou/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
 /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20240831-28393-1yunwdy.rb extconf.rb
 creating Makefile
 
-current directory: /Users/orenda/Documents/website/marytolou/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+current directory: /Users/orenda/Documents/website/maryamTolou/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
 make "DESTDIR=" clean
 
-current directory: /Users/orenda/Documents/website/marytolou/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+current directory: /Users/orenda/Documents/website/maryamTolou/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
 make "DESTDIR="
 compiling ruby_http_parser.c
 ruby_http_parser.c:323:22: warning: '(' and '{' tokens introducing statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
@@ -463,6 +463,6 @@ compiling ryah_http_parser.c
 linking shared-object ruby_http_parser.bundle
 ld: warning: search path '/AppleInternal/Library/BuildRoots/91a344b1-f985-11ee-b563-fe8bc7981bff/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.Internal.sdk/usr/local/lib' not found
 
-current directory: /Users/orenda/Documents/website/marytolou/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+current directory: /Users/orenda/Documents/website/maryamTolou/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
 make "DESTDIR=" install
 /usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20240831-28393-ai64pb
