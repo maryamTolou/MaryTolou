@@ -35,14 +35,8 @@
     }
   }
 
-  &:after {
+  @media (max-width: 756px) {
     display: none;
-  }
-  @media (max-width: 1200px) {
-    .masthead {
-      display: none !important;
-    }
-
   }
 
 }
