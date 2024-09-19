@@ -5,23 +5,15 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "About Me"
+    url: "#"
+
   - title: "Publications"
-    url: "#getting-started"
+    url: "#selected-publications"
+
+  - title: "News"
+    url: "#news"
 
   - title: "Talks"
-    url: "#getting-started"
-
-  - title: "Teaching"
-    url: "#getting-started"
+    url: "#talks"
     
-  - title: "Portfolio"
-    url: "#getting-started"
-        
-  - title: "Blog Posts"
-    url: "#getting-started"
-    
-  - title: "CV"
-    url: "#getting-started"
-    
-  - title: "Guide"
-    url: "#getting-started"
