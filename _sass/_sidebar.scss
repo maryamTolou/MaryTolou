@@ -26,6 +26,13 @@
     padding-top: $masthead-height;
   }
 
+  @media (max-width: 768px) {
+    .sidebar {
+        background-color: #ffffff; /* Sets the background color to white */
+    }
+}
+
+
   @include breakpoint($large) {
     @include span(2 of 12);
     opacity: 1;
