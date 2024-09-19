@@ -1,11 +1,11 @@
-current directory: /Users/orenda/Documents/website/marytolou/vendor/bundle/ruby/3.3.0/gems/commonmarker-0.23.10/ext/commonmarker
+current directory: /Users/orenda/Documents/website/maryamTolou/vendor/bundle/ruby/3.3.0/gems/commonmarker-0.23.10/ext/commonmarker
 /usr/local/opt/ruby/bin/ruby extconf.rb
 creating Makefile
 
-current directory: /Users/orenda/Documents/website/marytolou/vendor/bundle/ruby/3.3.0/gems/commonmarker-0.23.10/ext/commonmarker
+current directory: /Users/orenda/Documents/website/maryamTolou/vendor/bundle/ruby/3.3.0/gems/commonmarker-0.23.10/ext/commonmarker
 make DESTDIR\= sitearchdir\=./.gem.20240831-31369-l8jkd5 sitelibdir\=./.gem.20240831-31369-l8jkd5 clean
 
-current directory: /Users/orenda/Documents/website/marytolou/vendor/bundle/ruby/3.3.0/gems/commonmarker-0.23.10/ext/commonmarker
+current directory: /Users/orenda/Documents/website/maryamTolou/vendor/bundle/ruby/3.3.0/gems/commonmarker-0.23.10/ext/commonmarker
 make DESTDIR\= sitearchdir\=./.gem.20240831-31369-l8jkd5 sitelibdir\=./.gem.20240831-31369-l8jkd5
 compiling arena.c
 compiling autolink.c
@@ -75,9 +75,9 @@ compiling utf8.c
 compiling xml.c
 linking shared-object commonmarker/commonmarker.bundle
 
-current directory: /Users/orenda/Documents/website/marytolou/vendor/bundle/ruby/3.3.0/gems/commonmarker-0.23.10/ext/commonmarker
+current directory: /Users/orenda/Documents/website/maryamTolou/vendor/bundle/ruby/3.3.0/gems/commonmarker-0.23.10/ext/commonmarker
 make DESTDIR\= sitearchdir\=./.gem.20240831-31369-l8jkd5 sitelibdir\=./.gem.20240831-31369-l8jkd5 install
 /usr/bin/install -c -m 0755 commonmarker.bundle ./.gem.20240831-31369-l8jkd5/commonmarker
 
-current directory: /Users/orenda/Documents/website/marytolou/vendor/bundle/ruby/3.3.0/gems/commonmarker-0.23.10/ext/commonmarker
+current directory: /Users/orenda/Documents/website/maryamTolou/vendor/bundle/ruby/3.3.0/gems/commonmarker-0.23.10/ext/commonmarker
 make DESTDIR\= sitearchdir\=./.gem.20240831-31369-l8jkd5 sitelibdir\=./.gem.20240831-31369-l8jkd5 clean

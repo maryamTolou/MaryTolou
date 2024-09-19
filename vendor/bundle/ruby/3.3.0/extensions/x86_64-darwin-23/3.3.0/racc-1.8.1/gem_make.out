@@ -1,18 +1,18 @@
-current directory: /Users/orenda/Documents/website/marytolou/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+current directory: /Users/orenda/Documents/website/maryamTolou/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
 /usr/local/opt/ruby/bin/ruby extconf.rb
 creating Makefile
 
-current directory: /Users/orenda/Documents/website/marytolou/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+current directory: /Users/orenda/Documents/website/maryamTolou/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
 make DESTDIR\= sitearchdir\=./.gem.20240831-31369-jpjdhv sitelibdir\=./.gem.20240831-31369-jpjdhv clean
 
-current directory: /Users/orenda/Documents/website/marytolou/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+current directory: /Users/orenda/Documents/website/maryamTolou/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
 make DESTDIR\= sitearchdir\=./.gem.20240831-31369-jpjdhv sitelibdir\=./.gem.20240831-31369-jpjdhv
 compiling cparse.c
 linking shared-object racc/cparse.bundle
 
-current directory: /Users/orenda/Documents/website/marytolou/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+current directory: /Users/orenda/Documents/website/maryamTolou/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
 make DESTDIR\= sitearchdir\=./.gem.20240831-31369-jpjdhv sitelibdir\=./.gem.20240831-31369-jpjdhv install
 /usr/bin/install -c -m 0755 cparse.bundle ./.gem.20240831-31369-jpjdhv/racc
 
-current directory: /Users/orenda/Documents/website/marytolou/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+current directory: /Users/orenda/Documents/website/maryamTolou/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
 make DESTDIR\= sitearchdir\=./.gem.20240831-31369-jpjdhv sitelibdir\=./.gem.20240831-31369-jpjdhv clean

@@ -1,4 +1,4 @@
-current directory: /Users/orenda/Documents/website/marytolou/vendor/bundle/ruby/3.3.0/gems/bigdecimal-3.1.8/ext/bigdecimal
+current directory: /Users/orenda/Documents/website/maryamTolou/vendor/bundle/ruby/3.3.0/gems/bigdecimal-3.1.8/ext/bigdecimal
 /usr/local/opt/ruby/bin/ruby extconf.rb
 checking for __builtin_clz()... yes
 checking for __builtin_clzl()... yes
@@ -31,18 +31,18 @@ checking for rb_category_warn() in ruby.h... yes
 checking for RB_WARN_CATEGORY_DEPRECATED in ruby.h... yes
 creating Makefile
 
-current directory: /Users/orenda/Documents/website/marytolou/vendor/bundle/ruby/3.3.0/gems/bigdecimal-3.1.8/ext/bigdecimal
+current directory: /Users/orenda/Documents/website/maryamTolou/vendor/bundle/ruby/3.3.0/gems/bigdecimal-3.1.8/ext/bigdecimal
 make DESTDIR\= sitearchdir\=./.gem.20240831-31369-beblgq sitelibdir\=./.gem.20240831-31369-beblgq clean
 
-current directory: /Users/orenda/Documents/website/marytolou/vendor/bundle/ruby/3.3.0/gems/bigdecimal-3.1.8/ext/bigdecimal
+current directory: /Users/orenda/Documents/website/maryamTolou/vendor/bundle/ruby/3.3.0/gems/bigdecimal-3.1.8/ext/bigdecimal
 make DESTDIR\= sitearchdir\=./.gem.20240831-31369-beblgq sitelibdir\=./.gem.20240831-31369-beblgq
 compiling bigdecimal.c
 compiling missing.c
 linking shared-object bigdecimal.bundle
 
-current directory: /Users/orenda/Documents/website/marytolou/vendor/bundle/ruby/3.3.0/gems/bigdecimal-3.1.8/ext/bigdecimal
+current directory: /Users/orenda/Documents/website/maryamTolou/vendor/bundle/ruby/3.3.0/gems/bigdecimal-3.1.8/ext/bigdecimal
 make DESTDIR\= sitearchdir\=./.gem.20240831-31369-beblgq sitelibdir\=./.gem.20240831-31369-beblgq install
 /usr/bin/install -c -m 0755 bigdecimal.bundle ./.gem.20240831-31369-beblgq
 
-current directory: /Users/orenda/Documents/website/marytolou/vendor/bundle/ruby/3.3.0/gems/bigdecimal-3.1.8/ext/bigdecimal
+current directory: /Users/orenda/Documents/website/maryamTolou/vendor/bundle/ruby/3.3.0/gems/bigdecimal-3.1.8/ext/bigdecimal
 make DESTDIR\= sitearchdir\=./.gem.20240831-31369-beblgq sitelibdir\=./.gem.20240831-31369-beblgq clean

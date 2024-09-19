@@ -1,11 +1,11 @@
-current directory: /Users/orenda/Documents/website/marytolou/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+current directory: /Users/orenda/Documents/website/maryamTolou/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
 /usr/local/opt/ruby/bin/ruby extconf.rb
 creating Makefile
 
-current directory: /Users/orenda/Documents/website/marytolou/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+current directory: /Users/orenda/Documents/website/maryamTolou/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
 make DESTDIR\= sitearchdir\=./.gem.20240831-31369-yhwyz1 sitelibdir\=./.gem.20240831-31369-yhwyz1 clean
 
-current directory: /Users/orenda/Documents/website/marytolou/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+current directory: /Users/orenda/Documents/website/maryamTolou/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
 make DESTDIR\= sitearchdir\=./.gem.20240831-31369-yhwyz1 sitelibdir\=./.gem.20240831-31369-yhwyz1
 compiling ruby_http_parser.c
 ruby_http_parser.c:365:17: warning: comparison of integers of different signs: 'size_t' (aka 'unsigned long') and 'long' [-Wsign-compare]
@@ -15,9 +15,9 @@ ruby_http_parser.c:365:17: warning: comparison of integers of different signs: '
 compiling ryah_http_parser.c
 linking shared-object ruby_http_parser.bundle
 
-current directory: /Users/orenda/Documents/website/marytolou/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+current directory: /Users/orenda/Documents/website/maryamTolou/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
 make DESTDIR\= sitearchdir\=./.gem.20240831-31369-yhwyz1 sitelibdir\=./.gem.20240831-31369-yhwyz1 install
 /usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20240831-31369-yhwyz1
 
-current directory: /Users/orenda/Documents/website/marytolou/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+current directory: /Users/orenda/Documents/website/maryamTolou/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
 make DESTDIR\= sitearchdir\=./.gem.20240831-31369-yhwyz1 sitelibdir\=./.gem.20240831-31369-yhwyz1 clean
