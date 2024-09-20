@@ -64,6 +64,11 @@ $(document).ready(function(){
     $(".author__urls-wrapper button").toggleClass("open");
   });
 
+  $(".author__urls-wrapper button").on("click", function() {
+    document.querySelector('.author__urls').style.display = 'block'; // Force it on click
+  });
+  
+
   // init smooth scroll, this needs to be slightly more than then fixed masthead height
   $("a").smoothScroll({offset: -65});
 
