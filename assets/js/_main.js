@@ -65,9 +65,14 @@ $(document).ready(function(){
   });
 
   $(".author__urls-wrapper button").on("click", function() {
-    document.querySelector('.author__urls').style.display = 'block'; // Force it on click
-  });
-  
+    var urlsMenu = $('.author__urls');
+    if(urlsMenu.css('display') === 'none') {
+        urlsMenu.css('display', 'block'); // Display the menu if it's not visible
+    } else {
+        urlsMenu.css('display', 'none'); // Hide the menu if it's visible
+    }
+});
+
 
   // init smooth scroll, this needs to be slightly more than then fixed masthead height
   $("a").smoothScroll({offset: -65});

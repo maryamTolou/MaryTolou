@@ -32,12 +32,12 @@
       padding-top: $masthead-height;
     }
   
-    @media (max-width: 768px) { 
-      overflow: visible; 
-      height: auto; /* Set to auto to allow it to expand */
-      // min-height: 400px; /* You can adjust this value based on your desired height */
-      // flex-direction: row; /* Make the sidebar horizontal if that's what you want */
-    }
+    // @media (max-width: 768px) { 
+    //   overflow: visible; 
+    //   height: auto; /* Set to auto to allow it to expand */
+    //   // min-height: 400px; /* You can adjust this value based on your desired height */
+    //   // flex-direction: row; /* Make the sidebar horizontal if that's what you want */
+    // }
   
     @media (min-width:  925px) and (max-width: 1550px){
       background-color: #ffffff; /* Sets the background color to white */

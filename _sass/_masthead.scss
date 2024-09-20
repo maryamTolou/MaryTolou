@@ -36,7 +36,8 @@
   }
 
   @media (max-width: 1302px) {
-    display: none;
+    // display: none;
+    visibility: hidden;
   }
 
 }
