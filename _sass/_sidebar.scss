@@ -13,7 +13,7 @@
     align-items: center;
   
       // min-width: 300px; /* Adjust the value based on your content size */
-    padding: 20px; /* Provides space around the content */
+    padding: 16px; /* Provides space around the content */
     width: 100%; 
     align-items: center; // This will center the content horizontally
     -webkit-transform: translate3d(0, 0 , 0);
@@ -136,10 +136,14 @@
 
   .author__avatar {
     display: table-cell;
+    // display: flex;
     vertical-align: top;
-    width: 36px;
+    width: 60px;
+    // width: 100%;
+    justify-content: center; 
+    align-items: center;    
     // set width only, for non-square avatars
-    // height: 36px;
+    // height: 50px;
   
     @include breakpoint($large) {
       display: block;
@@ -161,7 +165,8 @@
   
   .author__content {
     display: table-cell;
-    vertical-align: top;
+    // vertical-align::
+    vertical-align: middle;
     padding-left: 15px;
     padding-right: 25px;
     line-height: 1;
