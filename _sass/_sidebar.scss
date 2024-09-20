@@ -7,12 +7,13 @@
    ========================================================================== */
 
 .sidebar {
+  overflow: visible;
   display: flex;
   flex-direction: column;
   align-items: center;
 
     // min-width: 300px; /* Adjust the value based on your content size */
-  padding: 10px; /* Provides space around the content */
+  padding: 20px; /* Provides space around the content */
   width: 100%; 
   align-items: center; // This will center the content horizontally
   -webkit-transform: translate3d(0, 0 , 0);
@@ -24,10 +25,18 @@
   background-color:#f1e8fa;  // Add purple background color by default
 
   @media screen and (min-width: $sidebar-screen-min-width) {
+    // @media screen {
     height: 100vh;
-    overflow-y: auto;               // Add scrollbar if the sidebar is too long
+    // overflow-y: auto;               // Add scrollbar if the sidebar is too long
     position: fixed;
     padding-top: $masthead-height;
+  }
+
+  @media (max-width: 768px) { 
+    overflow: visible; 
+    height: auto; /* Set to auto to allow it to expand */
+    // min-height: 400px; /* You can adjust this value based on your desired height */
+    // flex-direction: row; /* Make the sidebar horizontal if that's what you want */
   }
 
   @media (min-width:  925px) and (max-width: 1550px){
@@ -72,6 +81,7 @@
 }
 
 .sidebar__right {
+  display: None;
   margin-bottom: 1em;
 
   @include breakpoint($large) {
@@ -154,9 +164,9 @@
 
 .sidebar .author__desktop {
   // display: none;
-  @media screen and (min-width: 1024px) {
+  // @media screen and (min-width: 1024px) {
     display: block;
-  }
+  // }
 }
 
 .author__pronouns {
@@ -182,7 +192,7 @@
   display: table-cell;
   vertical-align: middle;
   font-family: $sans-serif;
-  z-index: 100;
+  z-index: 10;
   position: relative;
   cursor: pointer;
 
@@ -216,7 +226,7 @@
   border: 1px solid $border-color;
   border-radius: $border-radius;
   background: #fff;
-  z-index: -1;
+  z-index: -10;
   box-shadow: 0 0 10px rgba(#000, 0.25);
   cursor: default;
 
@@ -240,7 +250,7 @@
     border-style: solid;
     border-width: 0 10px 10px;
     border-color: $border-color transparent;
-    z-index: 0;
+    // z-index: 0;
 
     @include breakpoint($large) {
       display: none;
@@ -248,7 +258,7 @@
   }
 
   &:after {
-    z-index: 100;
+    // z-index: 100;
     display: block;
     content: "";
     position: absolute;
@@ -258,7 +268,7 @@
     border-style: solid;
     border-width: 0 10px 10px;
     border-color: #f1e8fa;
-    z-index: 500;
+    z-index: 20;
 
     @include breakpoint($large) {
       display: none;
