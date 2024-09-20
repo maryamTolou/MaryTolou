@@ -22,9 +22,9 @@ body {
     /* when primary navigation is visible, the content in the background won't scroll */
     overflow: hidden;
   }
-  @media (max-width: 780px) {
+  @media (max-width: 1302px) {
     padding-top: 0em;
-    padding-bottom: 12em;
+    padding-bottom: 8em;
   }
 }
 

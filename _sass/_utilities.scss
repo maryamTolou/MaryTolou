@@ -324,6 +324,7 @@ body:hover .visually-hidden button {
    ========================================================================== */
 
 .navicon {
+  display: none;
   position: relative;
   width: $navicon-width;
   height: $navicon-height;
@@ -354,6 +355,7 @@ body:hover .visually-hidden button {
 }
 
 .close .navicon {
+  display: None;
   /* hide the middle line*/
   background: transparent;
 
@@ -383,7 +385,7 @@ body:hover .visually-hidden button {
    ========================================================================== */
 
 .sticky {
-  @include breakpoint($large) {
+  @include breakpoint($x-large) {
     @include clearfix();
     position: -webkit-sticky;
     position: sticky;
