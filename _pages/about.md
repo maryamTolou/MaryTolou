@@ -34,16 +34,17 @@ __[TBME '21]__ Learning to disentangle inter-subject anatomical variations in el
 News
 ======
 __2024__ 
-1. I am serving as a Reviewer for Neurips 2024!
-2. __[Paper Acceptance]__ Our Paper is accepted at ICLR 2024!
-3. I am serving as a Reviewer for IEEE Transactions on Circuits and Systems for Video Technology! 
-4. I am serving as a Reviewer for MICCAI 2024!
-5. I received a travel award from RIT Student Government!
-6. I will be attending Neurips in New Orleans this year!
-7. I am serving as a Reviewer for TSMO workshop at KDD 2024!
-8. I am serving as a Reviewer for Physics in Medicine and Biology!
-9. I am serving as a Student Voelenteer at CHI 2024 in beautiful Honolulu, Hawaii!
-10. __[Paper Acceptance]__ Our paper is accepted at IEEE Transactions on Medical Imaging (TMI)!
+1. __[Paper Acceptance]__ Our Paper is accepted at NeurIPS 2024!
+2. I am serving as a Reviewer for Neurips 2024!
+3. __[Paper Acceptance]__ Our Paper is accepted at ICLR 2024!
+4. I am serving as a Reviewer for IEEE Transactions on Circuits and Systems for Video Technology! 
+5. I am serving as a Reviewer for MICCAI 2024!
+6. I received a travel award from RIT Student Government!
+7. I will be attending Neurips in New Orleans this year!
+8. I am serving as a Reviewer for TSMO workshop at KDD 2024!
+9. I am serving as a Reviewer for Physics in Medicine and Biology!
+10. I am serving as a Student Voelenteer at CHI 2024 in beautiful Honolulu, Hawaii!
+11. __[Paper Acceptance]__ Our paper is accepted at IEEE Transactions on Medical Imaging (TMI)!
 
 
 __2023__

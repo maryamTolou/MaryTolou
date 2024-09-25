@@ -154,11 +154,10 @@
       display: none;
     }
   }
-}
 
 .author__urls {
   display: none;
-  position: absolute;
+  position: relative;
   right: 0;
   margin-top: 15px;
   padding: 10px;
