@@ -18,7 +18,7 @@ Away from the screen, I enjoy aerial yoga 🧘‍♀️, swimming 🏊‍♀️,
 Selected Publications
 ======
 For the full list of publications and pre-prints please refer to my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Qjpj72cAAAAJ&view_op=list_works&sortby=pubdate) page. <br><br>
-__[NeurIPS '24]__ , On the Identifiability of Hybrid Physics-Neural Models: Meta-Learning as a Solution (Accepted - Link Coming Soon!) <br>
+__[NeurIPS '24]__ On the Identifiability of Hybrid Physics-Neural Models: Meta-Learning as a Solution (Accepted - Link Coming Soon!) <br>
 __[ICLR '24]__  DATS: Difficulty-Aware Task Sampler for Meta-Learning Physics-Informed Neural Networks, [Link](https://openreview.net/pdf?id=EvyYFSxdgB) <br>
 __[TMI '24]__   Hybrid Neural State-Space Modeling for Supervised and Unsupervised Electrocardiographic Imaging, [Link](https://ieeexplore.ieee.org/abstract/document/10471622) <br>
 __[MICCAI '23]__ A Spatial-Temporally Adaptive PINN Framework for 3D Bi-Ventricular Electrophysiological Simulations and Parameter Inference, [Link](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_16)<br>
